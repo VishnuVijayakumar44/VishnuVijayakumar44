@@ -59,11 +59,9 @@ Integrated 10+ authoritative climate datasets (NASA GISTEMP, NOAA, HadCRUT5, Ber
 
 <div align="center">
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnuVijayakumar44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVijayakumar44&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=VishnuVijayakumar44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 </div>
-
 ---
 
 <div align="center">
