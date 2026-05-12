@@ -55,13 +55,10 @@ Integrated 10+ authoritative climate datasets (NASA GISTEMP, NOAA, HadCRUT5, Ber
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=VishnuVijayakumar44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/VishnuVijayakumar44?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/VishnuVijayakumar44)
+[![GitHub User's stars](https://img.shields.io/github/stars/VishnuVijayakumar44?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/VishnuVijayakumar44)
 ---
 
 <div align="center">
