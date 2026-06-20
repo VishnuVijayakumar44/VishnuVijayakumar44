@@ -1,7 +1,6 @@
 <div align="center">
 
 # Vishnu Vijayakumar
-
 **Data Scientist · MSc Data & Computational Science, University College Dublin**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vijayakumar-1a5643190)
@@ -33,8 +32,9 @@ Previously a Technology Analyst at Invenics, where I worked across design, engin
 | **Languages** | Python · R · SQL · C |
 | **Machine Learning** | scikit-learn · XGBoost · Random Forest · SHAP · Regression · Time Series |
 | **Data & Statistics** | Pandas · NumPy · EDA · Hypothesis Testing · Feature Engineering · Statistical Modelling |
-| **Visualisation** | Matplotlib · Seaborn · Power BI · Jupyter |
+| **Visualisation** | Matplotlib · Seaborn · Power BI · Plotly · Dash · Jupyter |
 | **Scientific Computing** | NetCDF · SciPy · Climate Data Processing |
+| **Web & Data Engineering** | Web Scraping (Playwright, BeautifulSoup) · REST/HTML Parsing · Data Pipelines |
 | **Collaboration** | Agile Scrum · Git · Technical Documentation |
 
 ---
@@ -42,7 +42,6 @@ Previously a Technology Analyst at Invenics, where I worked across design, engin
 ## 🚀 Featured Projects
 
 ### 🌍 [Analyzing Global Warming using ML & Statistical Techniques](https://github.com/VishnuVijayakumar44/Global-Warming-ML-Analysis)
-
 > *Can machine learning distinguish human-driven climate change from natural variability?*
 
 Integrated 10+ authoritative climate datasets (NASA GISTEMP, NOAA, HadCRUT5, Berkeley Earth) and built a full ML pipeline to rigorously quantify the drivers of global warming. Applied advanced feature engineering, including lag features, interaction terms, first differences, and rolling statistics, before training and evaluating Random Forest and XGBoost models. Used SHAP explainability to confirm CO2 as the dominant predictor of temperature anomaly, with volcanic and solar factors playing minor roles.
@@ -53,12 +52,23 @@ Integrated 10+ authoritative climate datasets (NASA GISTEMP, NOAA, HadCRUT5, Ber
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+### 💼 [Irish Data Jobs Market Dashboard](https://github.com/VishnuVijayakumar44/Irish-jobs-dashboard)
+> *What skills, salaries, and companies define Ireland's data jobs market right now?*
+
+Built an end-to-end data pipeline: a Playwright-based web scraper that navigates IrishJobs.ie's bot detection and `robots.txt` constraints, a Pandas cleaning stage handling deduplication, salary parsing, and location standardization, and a custom-styled interactive Plotly Dash dashboard visualizing in-demand skills, regional hiring patterns, salary ranges, and top hiring companies.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
 ---
 
 ## 📊 GitHub Activity
 
 [![GitHub followers](https://img.shields.io/github/followers/VishnuVijayakumar44?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/VishnuVijayakumar44)
 [![GitHub User's stars](https://img.shields.io/github/stars/VishnuVijayakumar44?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/VishnuVijayakumar44)
+
 ---
 
 <div align="center">
